@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Milind Pius, born and raised in Bahrain and currently pursuing my studies at NIT Jalandhar. With a deep interest in AI and machine learning.<br>
+I’m Milind, born and raised in Bahrain and currently pursuing my studies at NIT Jalandhar. With a deep interest in AI and machine learning.<br>
 
 
 ## 🌐 Socials:
